@@ -85,7 +85,7 @@ function App() {
 
   return (
     <>
-      <div className="calendar w-[700px] bg-green-400 rounded-lg my-10 mx-auto p-2 shadow-md">
+      <div className="calendar w-[700px] bg-green-400 rounded-lg my-20 mx-auto p-2 shadow-md">
         <div className="uppercase font-bold text-2xl text-white text-center p-2">
           React Calendar
         </div>
